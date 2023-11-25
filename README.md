@@ -1,46 +1,59 @@
-<p align="center"><img width="40%" src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg"/></p>
+# TO-DO App
 
-# Hacktoberfest 2020 with IEEE-VIT :heart:
+Overview
+
+Welcome to the ToDo app! This iOS application is designed to help users manage their tasks with ease. Whether you have simple tasks or more complex projects with subtasks and deadlines, this app has got you covered.
 This is a simple ToDo iOS application built using swift. Users can also add subtasks and deadlines along with their tasks!
 
-Support open source software by participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com) and get goodies and a free t-shirt! :yellow_heart:
+Features
 
-> Please check all issues labelled as `hacktoberfest` to start contributing!
+Task Management: Create, edit, and delete tasks effortlessly.
 
-Kindly consider leaving a :star: if you like the repository and our organisation.
+Subtasks: Break down tasks into smaller subtasks for better organization.
 
-## Getting Started
-* Fork it.
+Deadlines: Set deadlines for tasks to keep track of your schedule.
 
-* Clone your forked repo and move inside it:
+User-Friendly Interface: Intuitive design for a seamless user experience.
 
-`git clone https://github.com/IEEE-VIT/ToDo-iOS.git && cd ToDo-iOS`
+Installation
 
-* Checkout to a new branch to work on an issue:
+1. Clone the repository:
 
-`git checkout -b my-amazing-feature`
+`git clone https://github.com/your-username/todo-app.git`
 
-* Running the project
+2. Open the project in Xcode:
 
-`open the project in Xcode and run!`
-<br/>
-`Shortcut: (⌘ + R)`
+`cd todo-app`
 
-* Once you're all done coding, it's time to open a PR :)
-Run the following commands from the root of the project directory:
+`open ToDoApp.xcodeproj`
 
-`git add .`
+3. Build and run the app on the iOS simulator or a physical device.
 
-`git commit -m "A short description about the feature."`
+Usage
 
-`git push origin <my-amazing-feature>`
+Task Creation:
 
-Open your forked repo in your browser and then raise a PR to the `master` branch of this repository!
+Tap the "+" button to add a new task.
+
+Enter task details such as title, description, and deadline.
+
+Subtasks:
+
+When creating or editing a task, you can add subtasks by tapping the "Add Subtask" button.
+
+Each subtask can have its own title and completion status.
+
+Deadlines:
+
+Set task deadlines to stay organized.
+
+You'll receive reminders as the deadline approaches.
+
+Task Management:
+
+Swipe left on a task to reveal options for editing or deleting.
 
 
 
-## Contributing
-To start contributing, check out [CONTRIBUTING.md](https://github.com/IEEE-VIT/ToDo-iOS/blob/master/contributing.md). New contributors are always welcome to support this project. If you want something gentle to start with, check out issues labelled as `easy` or `good-first-issue`. Check out issues labelled as `hacktoberfest` if you are up for some grabs! :) 
 
-## License
-This project is licensed under [MIT](https://github.com/IEEE-VIT/ToDo-iOS/blob/master/LICENSE).
+
