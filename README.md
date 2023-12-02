@@ -24,7 +24,9 @@ Installation
 
 2. Open the project in Xcode:
 
-`cd todo-app`
+`cd To-Do-List-App`
+
+`cd Application`
 
 `open ToDoApp.xcodeproj`
 
