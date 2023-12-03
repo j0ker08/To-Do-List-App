@@ -2,9 +2,6 @@
 //  EmptyState.swift
 //  To-Do
 //
-//  Created by Bayu Kurniawan on 10/10/20.
-//  Copyright © 2020 Aaryan Kothari. All rights reserved.
-//
 
 import UIKit
 

@@ -2,9 +2,7 @@
 //  Alert.swift
 //  To-Do
 //
-//  Created by Mikaela Caron on 10/3/20.
-//  Copyright © 2020 Aaryan Kothari. All rights reserved.
-//
+
 
 import UIKit
 

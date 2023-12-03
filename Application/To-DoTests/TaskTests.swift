@@ -2,9 +2,6 @@
 //  To_DoTests.swift
 //  To-DoTests
 //
-//  Created by Rizwan on 06/10/20.
-//  Copyright © 2020 Aaryan Kothari. All rights reserved.
-//
 
 import XCTest
 import CoreData

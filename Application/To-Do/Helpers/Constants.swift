@@ -2,9 +2,6 @@
 //  Constants.swift
 //  To-Do
 //
-//  Created by Aaryan Kothari on 11/10/20.
-//  Copyright © 2020 Aaryan Kothari. All rights reserved.
-//
 
 import Foundation
 

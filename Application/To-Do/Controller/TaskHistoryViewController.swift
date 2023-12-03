@@ -2,9 +2,6 @@
 //  TaskHistoryViewController.swift
 //  To-Do
 //
-//  Created by Mikaela Caron on 10/9/20.
-//  Copyright © 2020 Aaryan Kothari. All rights reserved.
-//
 
 import UIKit
 import CoreData

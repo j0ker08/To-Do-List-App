@@ -2,9 +2,6 @@
 //  OnboardingViewController.swift
 //  To-Do
 //
-//  Created by Abraao Levi on 03/10/20.
-//  Copyright © 2020 Aaryan Kothari. All rights reserved.
-//
 
 import UIKit
 
