@@ -1,7 +1,6 @@
 //
 //  SceneDelegate.swift
 //  To-Do
-//
 
 import UIKit
 
