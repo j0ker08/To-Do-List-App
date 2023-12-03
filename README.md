@@ -28,7 +28,7 @@ Installation
 
 `cd Application`
 
-`open ToDoApp.xcodeproj`
+`open To-Do.xcodeproj`
 
 3. Build and run the app on the iOS simulator or a physical device.
 
