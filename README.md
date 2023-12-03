@@ -3,6 +3,7 @@
 Overview
 
 Welcome to the ToDo app! This iOS application is designed to help users manage their tasks with ease. Whether you have simple tasks or more complex projects with subtasks and deadlines, this app has got you covered.
+
 This is a simple ToDo iOS application built using swift. Users can also add subtasks and deadlines along with their tasks!
 
 Features
@@ -23,9 +24,11 @@ Installation
 
 2. Open the project in Xcode:
 
-`cd todo-app`
+`cd To-Do-List-App`
 
-`open ToDoApp.xcodeproj`
+`cd Application`
+
+`open To-Do.xcodeproj`
 
 3. Build and run the app on the iOS simulator or a physical device.
 
@@ -53,7 +56,8 @@ Task Management:
 
 Swipe left on a task to reveal options for editing or deleting.
 
+Project done by Pranva Pansheriya and Kelly Nguyen
 
+Pranva's Contribution: AppDelegate, TextviewBorder, Alert, Controller folder, Cells folder, To-DoTests, EmptyState
 
-
-
+Kelly's Contribution: SceneDelegate, Extensions, Constant, CameraHelper, Controller folder, Cells folder, SortTypes
