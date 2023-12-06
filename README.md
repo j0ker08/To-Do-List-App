@@ -56,8 +56,8 @@ Task Management:
 
 Swipe left on a task to reveal options for editing or deleting.
 
-Project done by Pranva Pansheriya and Kelly Nguyen
+Project done by Pranav Pansheriya (CWID: 885187419) and Kelly Nguyen (CWID: 886385673)
 
-Pranva's Contribution: AppDelegate, TextviewBorder, Alert, Controller folder, Cells folder, To-DoTests, EmptyState
+Pranav's Contribution: AppDelegate, TextviewBorder, Alert, Controller folder, Cells folder, To-DoTests, EmptyState
 
 Kelly's Contribution: SceneDelegate, Extensions, Constant, CameraHelper, Controller folder, Cells folder, SortTypes
